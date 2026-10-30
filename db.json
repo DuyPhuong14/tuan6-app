@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "price": 1200
+    },
+    {
+      "title": "Chuột không dây",
+      "price": 25,
+      "id": 2
+    },
+    {
+      "title": "Bàn Phím",
+      "price": 100,
+      "id": 3
+    }
+  ]
+}
